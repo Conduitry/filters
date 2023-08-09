@@ -1,0 +1,7 @@
+! Discord
+! - role icons
+discord.com##[class*=roleIcon]
+! - server boost icons
+discord.com##[class*=premiumIcon]
+! - super reaction buttons
+discord.com##[aria-label="Add Super Reaction"]
