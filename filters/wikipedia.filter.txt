@@ -1,0 +1,3 @@
+! Wikipedia
+! - fundraising notices
+wikipedia.org##[id^=frb-]
