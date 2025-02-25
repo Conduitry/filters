@@ -5,3 +5,5 @@ discord.com##[class*=roleIcon]
 discord.com##[class*=premiumIcon]
 ! - super reaction buttons
 discord.com##[aria-label="Add Super Reaction"]
+! - AI image app buttons
+discord.com##[class*=imageContainer] > [class*=hoverButtonGroup]
