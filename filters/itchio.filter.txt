@@ -1,0 +1,3 @@
+! itch.io
+! - mature content modal
+itch.io##.content_warning_widget
