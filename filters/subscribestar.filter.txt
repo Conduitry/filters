@@ -1,0 +1,3 @@
+! subscribestar.adult
+! - mature content modal
+subscribestar.adult##.warning_xodal
