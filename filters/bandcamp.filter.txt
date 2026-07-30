@@ -1,0 +1,3 @@
+! Bandcamp
+! - cookie modal
+bandcamp.com##.dialog-container:has(.cookie-control)
