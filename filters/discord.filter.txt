@@ -7,3 +7,5 @@ discord.com##[class*=premiumIcon]
 discord.com##[aria-label="Add Super Reaction"]
 ! - AI image app buttons
 discord.com##[class*=imageContainer] > [class*=hoverButtonGroup]
+! - quest ads
+discord.com##[data-testid=quest-bar-container]
